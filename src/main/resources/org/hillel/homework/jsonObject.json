@@ -1,0 +1,12 @@
+{
+  "property1": 10,
+  "property2": -10.2,
+  "property3": {
+    "val": 222
+  },
+  "property4": [
+    "1",
+    "2",
+    222
+  ]
+}
