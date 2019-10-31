@@ -11,7 +11,7 @@
 
     <properties>
         <apache.common.version>1.4</apache.common.version>
-        <apache.jackson.version>2.9.9</apache.jackson.version>
+        <apache.jackson.version>2.10.0</apache.jackson.version>
     </properties>
 
     <dependencies>
